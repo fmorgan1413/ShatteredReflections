@@ -6483,7 +6483,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -33.36671
+    x: -27.961308
     y: -0.348238
     width: 74.32431
     height: 40
@@ -40916,7 +40916,7 @@ MonoBehaviour:
   storyText: {fileID: 1440193532}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 687601846}
-  fitTextWithImage: 1
+  fitTextWithImage: 0
   closeOtherDialogs: 0
 --- !u!114 &1135446503
 MonoBehaviour:
@@ -41671,7 +41671,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Octavia
-  nameColor: {r: 0.5943396, g: 0.15979885, b: 0.47222698, a: 1}
+  nameColor: {r: 0.26415092, g: 0.046101812, b: 0.20128995, a: 1}
   soundEffect: {fileID: 0}
   portraits: []
   portraitsFace: 0
@@ -41722,7 +41722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Michelle
-  nameColor: {r: 0.07058824, g: 0.54901963, b: 0.5137255, a: 1}
+  nameColor: {r: 0.041651838, g: 0.2264151, b: 0.21278502, a: 1}
   soundEffect: {fileID: 0}
   portraits:
   - {fileID: 21300000, guid: f1a30bd0e789a8945ab1a5a16f1ec330, type: 3}
@@ -41774,7 +41774,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Andre
-  nameColor: {r: 0.8396226, g: 0.33664113, b: 0.33664113, a: 1}
+  nameColor: {r: 0.3301887, g: 0.113697045, b: 0.113697045, a: 1}
   soundEffect: {fileID: 0}
   portraits: []
   portraitsFace: 0
@@ -41898,10 +41898,10 @@ RectTransform:
   - {fileID: 1912562189}
   m_Father: {fileID: 709678852}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 0.78700006}
-  m_AnchoredPosition: {x: -571.013, y: 161.532}
-  m_SizeDelta: {x: -2097.297, y: -996.995}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 1159.487, y: -801.46497}
+  m_SizeDelta: {x: 1363.7029, y: 275}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1440193531
 MonoBehaviour:
@@ -41955,7 +41955,7 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 1.5
   m_Text: Story text
 --- !u!222 &1440193533
 CanvasRenderer:
@@ -44192,8 +44192,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -62, y: -43}
-  m_SizeDelta: {x: 76.476, y: 78.795}
+  m_AnchoredPosition: {x: -54, y: 21}
+  m_SizeDelta: {x: 76.47595, y: 78.795}
   m_Pivot: {x: 0.5, y: 0.49999982}
 --- !u!114 &1912562190
 MonoBehaviour:
