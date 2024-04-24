@@ -10,11 +10,6 @@ public class buttonFX : MonoBehaviour
 
     public GameObject highlight;
 
-    public void HoverSound()
-    {
-        fx.PlayOneShot(hoverFX);
-    }
-
     private void OnMouseOver()
     {
         highlight.SetActive(true);
